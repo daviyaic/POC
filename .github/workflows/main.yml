@@ -43,14 +43,14 @@ jobs:
                 git pull && 
                 ./iniciarApp.sh "
                 
-    - name: Render Deploy Actions
+    # - name: Render Deploy Actions
 
-      uses: johnbeynon/render-deploy-action@v0.0.8
+    #   uses: johnbeynon/render-deploy-action@v0.0.8
 
-      with: 
+    #   with: 
 
-        service-id: srv-crqbhm68ii6s73cs9ocg
+    #     service-id: srv-crqbhm68ii6s73cs9ocg
 
-        api-key: rnd_l69f65QlPihtyxITTkdn75M9IBBH
+    #     api-key: rnd_l69f65QlPihtyxITTkdn75M9IBBH
     
         
